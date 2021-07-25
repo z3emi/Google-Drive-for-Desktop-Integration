@@ -20,7 +20,7 @@ Following the steps below you can create the same shortcut for Google Drive.
 - Open  **GoogleDrive.reg**  in your favourite text editor.
 - When making edits below, you must use \\\ instead of \\
 - Update any references of @="C:\\\Program Files\\\Google\\\Drive File Stream\\\49.0.9.0\\\GoogleDriveFS.exe,0" to wherever you've installed Google Drive, keeping ,0 at the end of the drive path
-- Update any references "TargetFolderPath"="G:\\\My Drive" to wherever you have configured Google Drive to store files
+- Update any references of "TargetFolderPath"="G:\\\My Drive" to wherever you have configured Google Drive to store files
 - Save all changes
 - Double-click  **GoogleDrive.reg**  to install and ensure you click yes when prompted.
 
