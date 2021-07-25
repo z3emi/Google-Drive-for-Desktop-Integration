@@ -26,7 +26,7 @@ Following the steps below you can create the same shortcut for Google Drive.
 
 ## Results
 
-![Image of first print](https://imgur.com/a/6x2XTEY)
+![Image of first print](https://i.imgur.com/O6IT6J8.png)
 
 
 You should now see Google Drive pinned to the Explorer sidebar.
