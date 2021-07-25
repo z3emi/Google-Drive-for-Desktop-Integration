@@ -33,4 +33,5 @@ You should now see Google Drive pinned to the Explorer sidebar.
 
 ## Credits
 Original work by [**luke.digital**](http://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
+
 Google Drive for Desktop update by [**Stratium**](https://github.com/Stratium/)
