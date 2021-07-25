@@ -1,6 +1,7 @@
 # Notice
 
 This only works for [**Google Drive for Desktop**](https://support.google.com/drive/answer/7329379) users, NOT Backup and Sync users.
+
 Backup and Sync users should use the original work by [**luke.digital**](http://luke.digital/adding-google-drive-to-the-explorer-sidebar/)
 
 # Adding Google Drive for Desktop to the Windows Explorer sidebar
