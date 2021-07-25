@@ -1,4 +1,4 @@
-# Adding Google Drive to the Windows Explorer sidebar
+# Adding Google Drive for Desktop to the Windows Explorer sidebar
 
 For those of you who use OneDrive or Dropbox you may have noticed that they create non-removable shortcuts in the Explorer sidebar. If you are also a Google Drive user you&#39;ll notice that Google Drive doesn&#39;t create the same shortcuts.
 
